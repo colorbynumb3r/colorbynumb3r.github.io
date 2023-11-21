@@ -19,18 +19,22 @@ INSERT SCHEDULE HERE
 ## League Fees
 
 No membership or league/shoot fees
+
 All fees paid are to cover clays / round costs + to cover potential overages
-  $40 per event
+- $40 per event
+
 Field Sports Park
-  $7 a round (25 clays)
-  3x rounds qualifying + 2x rounds for final (260 clays total for 6x shooter final)
-  $35 for 5 rounds
+- $7 a round (25 clays)
+- 3x rounds qualifying + 2x rounds for final (260 clays total for 6x shooter final)
+- $35 for 5 rounds
+
 Martinez:
-  $9 a round (25 clays)
-  TBD: still need to make arrangements with management
+- $9 a round (25 clays)
+- TBD: still need to make arrangements with management
+
 Coyote Clays:
-  $7.50 a round (25 clays)
-  TBD: still need to make arrangements with management
+- $7.50 a round (25 clays)
+- TBD: still need to make arrangements with management
 
 ## League Signup
 
@@ -43,7 +47,9 @@ iCal Link:
 ## Field Sports Park
 
 Address: 9580 Malech Rd San Jose, CA 95013
-FSP website: https://parks.sccgov.org/santa-clara-county-parks/field-sports-park
-Waiver forms are required (one time sign up) before shooting at FSP: Docusign
+
+FSP website: <a href="https://parks.sccgov.org/santa-clara-county-parks/field-sports-park">https://parks.sccgov.org/santa-clara-county-parks/field-sports-park</a>
+
+Waiver forms are required (one time sign up) before shooting at FSP: <a href="https://powerforms.docusign.net/89ea1b40-b0ff-4a93-98e5-c7e729f2b63a?env=na2&acct=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b&accountId=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b">Docusign</a>
 
 INSERT PHOTO HERE
