@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Important Rules for Gun Safety
+title: Rules for Gun Safety
 nav_order: 1.5
 ---
 
