@@ -12,7 +12,7 @@ Bay Area Skeet international Club (BASiC) is an informal club to organize friend
 
 The group meets every 3rd Saturday of the month (see Calendar for more details) to shoot 3 rounds of international skeet at Field Sports Park (San Jose, CA) + ISSF Finals.
 
-The club tries to adhere to ISSF rules but some rules are only loosely enfored.
+The club tries to adhere to ISSF rules but some rules are only loosely enforced.
 
   {: .highlight }
   Everyone (including absolute beginners) is welcome to join!
