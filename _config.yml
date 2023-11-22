@@ -2,7 +2,8 @@ title: Bay Area Skeet (international) Club
 description: International skeet club aiming to promote friendly competition
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://colorbynumb3r.github.io
+baseurl: /basic-justthedocs
 
 # Aux links for the upper right navigation
 aux_links:
