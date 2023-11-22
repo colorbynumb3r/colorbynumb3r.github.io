@@ -8,13 +8,13 @@ nav_order: 2
 
 Listed below are the major differences between American and International versions of skeet:
 
-![](../../assets/images/american-international.jpg)
+![](../../assets/images/american-international.jpeg)
 
 ## Skeet Field
 
 The field layout is the same between American Skeet and International Skeet
 
-![](../../assets/images/skeet-field.jpg)
+![](../../assets/images/skeet-field.jpeg)
 
 But, the target presentations are different…
 
@@ -22,10 +22,10 @@ But, the target presentations are different…
 
 There will be 3x rounds for qualifying. See “League Schedule” for more details
 
-![](../../assets/images/target-presentation.jpg)
+![](../../assets/images/target-presentation.jpeg)
 
 ## ISSF Finals Format
 
 After 3 rounds of qualifying, top 6 shooters will go shoot the final (ISSF format)
 
-![](../../assets/images/ISSF-finals.jpg)
+![](../../assets/images/ISSF-finals.jpeg)
