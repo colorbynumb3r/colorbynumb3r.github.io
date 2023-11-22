@@ -4,9 +4,11 @@ title: League Calendar
 nav_order: 4.5
 ---
 
-## League Calendar
+{: .note}
+Work in progress -- calendar integrated into website coming soon.
+
+In the meantime, please subscribe to this iCal link to gain visibility on shoot schedule.
 
 iCal Link: webcal://p98-caldav.icloud.com/published/2/OTU5NTU1ODQ5NTk1NTU4NBDfOPipEV9RrSym5gyCBZa2loZa2tCBzU5VCBgSTNRfKw24YA8tqMDNWS4HUSJ-LMsPyW9xJ_0xtWF0QClFf9Y
 
-{: .note}
-Work in progress -- calendar integrated into website coming soon.
+
