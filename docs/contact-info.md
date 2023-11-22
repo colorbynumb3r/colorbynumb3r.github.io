@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Contact Info
+title: Contact
 nav_order: 5
 ---
-
-## Contact Info
 
 For any questions, reach out to <a href="mailto:admin@BayAreaSkeet.Club">admin@BayAreaSkeet.Club</a>
 
