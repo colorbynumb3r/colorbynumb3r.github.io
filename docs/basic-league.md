@@ -21,21 +21,26 @@ If more shooters sign up, might consider a A + B final so everyone can practice 
 
 {: .note }
   No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks.
-  
   Cost is $40 per event.
 
+## Per Round Cost
+---
+
 Field Sports Park
-- $7 a round (25 clays)
+- $7 a round (25 clays) - league pricing
 - 3x rounds qualifying + 2x rounds for final (260 clays total for 6x shooter final)
 - $35 for 5 rounds
+---
 
-Martinez:
-- $9 a round (25 clays)
+Martinez Gun Club:
+- $9 a round (25 clays) - member pricing
 - TBD: still need to make arrangements with management
+---
 
 Coyote Clays:
-- $7.50 a round (25 clays)
+- $7.50 a round (25 clays) - bulk / token-dispenser pricing
 - TBD: still need to make arrangements with management
+---
 
 ## League Signup
 
