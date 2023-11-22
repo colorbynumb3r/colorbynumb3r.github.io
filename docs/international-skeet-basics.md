@@ -10,14 +10,15 @@ Listed below are the major differences between American and International versio
 
 ![American v International]({{site.baseurl}}/assets/images/american-international.jpg)
 
-| Item                     | American              | International / Olympic |
-|:-------------            |:----------------------|:------------------------|
-| Target Size              | 108mm                 | 110mm                   |
-| Target distance / ~speed | distance: 55m / 60y   | nice                    |
-| Target release           | good `oreos`          | hmm                     |
-| Ammo                     | good `zoute` drop     | yumm                    |
-| Ready position           | test                  |                         |
-| Time limit per station   | test                  |                         |
+| Item                          | American                                     | International / Olympic                      |
+|:-------------                 |:----------------------                       |:------------------------                     |
+| Target Size                   | 108mm                                        | 110mm                                        |
+| Target distance / <BR> ~speed | distance: 55m / 60y <BR> speed: ~50mph  | distance: 67m / 73y <BR> speed: ~65mph       |
+| Target release                | Immediate upon call                          | Variable delay: 0 to 3s                      |
+| Target presentation           | See table below                              | See table below                              |
+| Ammo                          | Typically 1oz or 1-1/8oz (no max)            | Max 24.5g (or ~7/8oz)                        |
+| Ready position                | Mounted                                      | Low gun at ISSF marker tape                  |
+| Time limit per station        | none                                         | 30s per station                              |
 
 ## Skeet Field
 
