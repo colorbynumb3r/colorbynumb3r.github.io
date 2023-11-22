@@ -4,6 +4,9 @@ title: Rules for Gun Safety
 nav_order: 1.5
 ---
 
+{: .warning }
+Make sure to read and understand everything on this page before participating in shoots
+
 ## 4 Main Rules for Gun Safety
 
 1. Treat all firearms as if they are loaded (even if you know they are not!)
