@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 {: .warning }
-At this time, BASiC league can accomodate up to 12 shooters only on any given Saturday. Please reach out to admin@BayAreaSkeet.Club if you are planning to shoot the next match.
+At this time, BASiC league can only accomodate up to 12 shooters on any given Saturday. Please reach out to admin@BayAreaSkeet.Club if you are planning to shoot the next match.
   
 ## League Schedule
 
@@ -20,25 +20,23 @@ If more shooters sign up, might consider a A + B final so everyone can practice 
 ![League Schedule]({{site.baseurl}}/assets/images/league-schedule.jpg)
 
 {: .note }
-  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $40 per event.**
+  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $40 per participant per event.**
 
-## Cost for a round of skeet
----
-
-Field Sports Park
+## Cost for a round of skeet at various ranges
+_Field Sports Park_
 - $7 a round (25 clays) - league pricing
 - 3x rounds qualifying + 2x rounds for final (260 clays total for 6x shooter final)
 - $35 for 5 rounds
 
 ---
 
-Martinez Gun Club:
+_Martinez Gun Club_
 - $9 a round (25 clays) - member pricing
 - TBD: still need to make arrangements with management
  
 ---
 
-Coyote Clays:
+_Coyote Clays_
 - $7.50 a round (25 clays) - bulk / token-dispenser pricing
 - TBD: still need to make arrangements with management
 
@@ -48,7 +46,7 @@ Coyote Clays:
 
 TBD (will add in Eventbrite link)
 
-## Field Sports Park
+## Location: Field Sports Park
 
 Address: 9580 Malech Rd San Jose, CA 95013
 
