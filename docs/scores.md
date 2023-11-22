@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scores
+title: Scores archive
 nav_order: 4
 ---
 
