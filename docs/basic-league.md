@@ -20,8 +20,7 @@ If more shooters sign up, might consider a A + B final so everyone can practice 
 ![League Schedule]({{site.baseurl}}/assets/images/league-schedule.jpg)
 
 {: .note }
-  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks.
-  Cost is $40 per event.
+  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $40 per event.**
 
 ## Cost for a round of skeet
 ---
