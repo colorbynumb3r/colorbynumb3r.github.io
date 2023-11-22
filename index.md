@@ -16,3 +16,4 @@ The club tries to adhere to ISSF rules but some rules are only loosely enfored.
 
 Everyone (including absolute beginners) is welcome to join!
 
+![American v International](/assets/images/american-international.jpg)
