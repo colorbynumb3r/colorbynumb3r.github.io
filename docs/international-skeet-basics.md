@@ -8,8 +8,6 @@ nav_order: 2
 
 Listed below are the major differences between American and International versions of skeet:
 
-![American v International]({{site.baseurl}}/assets/images/american-international.jpg)
-
 | Item                          | American                                     | International / Olympic                      |
 |:-------------                 |:----------------------                       |:------------------------                     |
 | Target Size                   | 108mm                                        | 110mm                                        |
@@ -19,6 +17,10 @@ Listed below are the major differences between American and International versio
 | Ammo                          | Typically 1oz or 1-1/8oz (no max)            | Max 24.5g (or ~7/8oz)                        |
 | Ready position                | Mounted                                      | Low gun at ISSF marker tape                  |
 | Time limit per station        | none                                         | 30s per station                              |
+
+## Low gun ready position
+
+![Low Gun Ready Position]({{site.baseurl}}/assets/images/low-gun.jpg)
 
 ## Skeet Field
 
@@ -32,10 +34,10 @@ But, the target presentations are different…
 
 There will be 3x rounds for qualifying. See “League Schedule” for more details
 
-![Target Presentation]({{site.baseurl}}/assets/images/target-presentation.jpg)
+![Target Presentation]({{site.baseurl}}/assets/images/target-presentation-updated.jpg)
 
 ## ISSF Finals Format
 
 After 3 rounds of qualifying, top 6 shooters will go shoot the final (ISSF format)
 
-![ISSF Finals]({{site.baseurl}}/assets/images/ISSF-finals.jpg)
+![ISSF Finals]({{site.baseurl}}/assets/images/ISSF-finals-updated.jpg)
