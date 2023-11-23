@@ -19,6 +19,23 @@ If more shooters sign up, might consider a A + B final so everyone can practice 
 
 ![League Schedule]({{site.baseurl}}/assets/images/league-schedule.jpg)
 
+## Shooter position and squadding
+
+Shooter position and squadding will be determined at the morning of the event. Participants will draw cards with varying numbers (1-6) and varying suits (diamond, aces, clover, heart). Position within the squad will be determined by the number and the squadding will be determined by the suit.
+
+For each of the qualifying rounds, shooter position will rotate. See below for example:
+
+| Round 1 | Round 2 | Round 3 |
+|:--------|:--------|:--------|
+| 1       | 6       | 3       |
+| 2       | 5       | 4       |
+| 3       | 4       | 2       |
+| 4       | 3       | 5       |
+| 5       | 2       | 1       |
+| 6       | 1       | 6       |
+
+Shooting order in the final will be determined by the total qualifying score. Position 1 will be the highest qualifier.
+
 {: .note }
   No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $40 per participant per event.**
 
