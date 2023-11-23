@@ -8,4 +8,4 @@ nav_order: 4
 Work in progress
 
 Qualifying rounds score template:
-[Qualifying]({{site.baseurl}}/assets/quali-score-template.pdf)
+[quali score template]({{site.baseurl}}/assets/quali-score-template.pdf)
