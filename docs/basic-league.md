@@ -61,7 +61,9 @@ _Coyote Clays_
 
 ## League Signup
 
-TBD (will add in Eventbrite link)
+TBD (will add Eventbrite link)
+
+For now, email <a href="mailto:admin@bayareaskeet.club">admin@BayAreaSkeet.Club<a/> if you are planning on attending.
 
 ## Location: Field Sports Park
 
