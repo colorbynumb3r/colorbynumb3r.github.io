@@ -11,7 +11,7 @@ Listed below are the major differences between American and International versio
 | Item                          | American                                     | International / Olympic                      |
 |:-------------                 |:----------------------                       |:------------------------                     |
 | Target Size                   | 108mm                                        | 110mm                                        |
-| Target distance / <BR> ~speed | distance: 55m / 60y <BR> speed: ~50mph  | distance: 67m / 73y <BR> speed: ~65mph       |
+| Target distance <BR> / ~speed | distance: 55m / 60y <BR> speed: ~50mph       | distance: 67m / 73y <BR> speed: ~65mph       |
 | Target release                | Immediate upon call                          | Variable delay: 0 to 3s                      |
 | Target presentation           | See table below                              | See table below                              |
 | Ammo                          | Typically 1oz or 1-1/8oz (no max)            | Max 24.5g (or ~7/8oz)                        |
@@ -32,9 +32,9 @@ But, the target presentations are different…
 
 ## Target Presentation (25 clays)
 
-There will be 3x rounds for qualifying. See “League Schedule” for more details
+There will be 3x rounds for qualifying. See “BASiC League” section for more details
 
-![Target Presentation]({{site.baseurl}}/assets/images/target-presentation-updated.jpg)
+![Target Presentation]({{site.baseurl}}/assets/images/intl-target.jpg)
 
 ## ISSF Finals Format
 
