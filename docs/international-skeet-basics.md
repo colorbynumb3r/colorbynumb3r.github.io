@@ -34,7 +34,7 @@ But, the target presentations are different…
 
 There will be 3x rounds for qualifying. See “BASiC League” section for more details
 
-![Target Presentation]({{site.baseurl}}/assets/images/intl-target.jpg)
+![Target Presentation]({{site.baseurl}}/assets/images/intl-target-new.jpg)
 
 ## ISSF Finals Format
 
