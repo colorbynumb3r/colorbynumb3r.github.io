@@ -13,4 +13,13 @@ Finals score template:
 {: .note}
 Work in progress -- scoring archive will be implemented in some sort of blog post format.
 
+---
+
+<ul>
+{% for post in site.posts %}
+ <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
 
