@@ -19,6 +19,6 @@ Top Qualifiers:
 2. Name (xx/75)
 3. Name (xx/75)
 
-Qualifying results: <a href="/results-archive/finals-score-template.pdf">PDF</a>
+Qualifying results: <a href="/results-archive/quali-score-template.pdf">PDF</a>
 
 Next shoot is scheduled for MM-DD-YYYY
