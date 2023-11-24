@@ -69,8 +69,8 @@ For now, email <a href="mailto:admin@bayareaskeet.club">admin@BayAreaSkeet.Club<
 
 Address: 9580 Malech Rd San Jose, CA 95013
 
-FSP website: <a href="https://parks.sccgov.org/santa-clara-county-parks/field-sports-park">https://parks.sccgov.org/santa-clara-county-parks/field-sports-park</a>
+FSP website: <a href="https://parks.sccgov.org/santa-clara-county-parks/field-sports-park" target="_blank" rel="noreferrer noopener">https://parks.sccgov.org/santa-clara-county-parks/field-sports-park</a>
 
-Waiver forms are required (one time sign up) before shooting at FSP: <a href="https://powerforms.docusign.net/89ea1b40-b0ff-4a93-98e5-c7e729f2b63a?env=na2&acct=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b&accountId=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b">Docusign</a>
+Waiver forms are required (one time sign up) before shooting at FSP: <a href="https://powerforms.docusign.net/89ea1b40-b0ff-4a93-98e5-c7e729f2b63a?env=na2&acct=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b&accountId=4413ff6c-07d8-4a15-bcd1-ea35455a9c9b" target="_blank" rel="noreferrer noopener">Docusign</a>
 
 ![FSP Map]({{site.baseurl}}/assets/images/fsp-map.jpg)
