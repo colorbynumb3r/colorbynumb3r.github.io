@@ -2,12 +2,23 @@
 layout: default
 title: Scores
 ---
+
+<h2>Scoressheet Templates</h2>
+
+Qualifying rounds score template:
+[quali score template]({{site.baseurl}}/assets/quali-score-template.pdf)
+
+Finals score template:
+[finals score template]({{site.baseurl}}/assets/finals-score-template.pdf)
+
+---
+
 <h2>Scores Archive</h2>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
