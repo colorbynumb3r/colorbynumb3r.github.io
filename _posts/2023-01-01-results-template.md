@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Results Template
+title: MM-YYYY Results (Template)
 ---
 
 ## MM-YYYY Shoot Results
@@ -12,13 +12,13 @@ Final Results:
 2. Second Place: Name
 3. Third Place: Name
 
-Final results: [PDF](({{site.baseurl}}/assets/finals-score-template.pdf))
+Final results: <a href="/results-archive/finals-score-template.pdf">PDF</a>
 
 Top Qualifiers:
 1. Name (xx/75)
 2. Name (xx/75)
 3. Name (xx/75)
 
-Qualifying results: [PDF]({{site.baseurl}}/assets/quali-score-template.pdf)
+Qualifying results: <a href="/results-archive/finals-score-template.pdf">PDF</a>
 
 Next shoot is scheduled for MM-DD-YYYY
