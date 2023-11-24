@@ -1,6 +1,9 @@
 ---
+layout: default
 title: Results Template
 ---
+
+## MM-YYYY Shoot Results
 
 Info on how many attended the shoot.
 
