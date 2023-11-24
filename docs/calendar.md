@@ -7,9 +7,22 @@ nav_order: 4.5
 {: .note}
 Work in progress -- calendar integrated into website coming soon
 
-In the meantime, please subscribe to this iCal link to gain visibility on shoot schedule.
-
-iCal Link: webcal://p98-caldav.icloud.com/published/2/OTU5NTU1ODQ5NTk1NTU4NBDfOPipEV9RrSym5gyCBZa2loZa2tCBzU5VCBgSTNRfKw24YA8tqMDNWS4HUSJ-LMsPyW9xJ_0xtWF0QClFf9Y
-
 {: .highlight}
 First shoot will be scheduled in January 2024
+
+## Upcoming shoots
+
+| Event | Date | Location|
+|:------|:-----|:--------|
+|Jan shoot | 01/20/2024 (TBC) | Field Sports Park |
+|Feb shoot | 02/17/2024 (TBC) | Field Sports Park |
+|Mar shoot | 03/9/2024 (TBC) | Field Sports Park |
+|Apr shoot | TBD | TBD |
+|May shoot | TBD | TBD |
+|Jun shoot | TBD | TBD |
+|Jul shoot | TBD | TBD |
+|Aug shoot | TBD | TBD |
+|Sep shoot | TBD | TBD |
+|Oct shoot | TBD | TBD |
+|Nov shoot | TBD | TBD |
+|Dec shoot | TBD | TBD |
