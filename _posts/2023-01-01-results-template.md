@@ -3,14 +3,12 @@ layout: post
 title: MM-YYYY Results (Template)
 ---
 
-## MM-YYYY Shoot Results
-
 Info on how many attended the shoot.
 
 Final Results:
-1. First Place: Name
-2. Second Place: Name
-3. Third Place: Name
+1. First Place: Name (xx/60)
+2. Second Place: Name (xx/60)
+3. Third Place: Name (xx/60)
 
 Final results: <a href="/results-archive/finals-score-template.pdf">PDF</a>
 
