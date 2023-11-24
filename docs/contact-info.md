@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-nav_order: 5
+nav_order: 6
 ---
 
 For any questions, reach out to <a href="mailto:admin@BayAreaSkeet.Club">admin@BayAreaSkeet.Club</a>
