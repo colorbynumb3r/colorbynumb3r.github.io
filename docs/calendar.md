@@ -1,11 +1,8 @@
 ---
 layout: default
 title: League Calendar
-nav_order: 4.5
+nav_order: 4
 ---
-
-{: .note}
-Work in progress -- calendar integrated into website coming soon
 
 {: .highlight}
 First shoot will be scheduled in January 2024
@@ -16,7 +13,7 @@ First shoot will be scheduled in January 2024
 |:------|:-----|:--------|
 |Jan shoot | 01/20/2024 (TBC) | Field Sports Park |
 |Feb shoot | 02/17/2024 (TBC) | Field Sports Park |
-|Mar shoot | 03/9/2024 (TBC) | Field Sports Park |
+|Mar shoot | 03/09/2024 (TBC) | Field Sports Park |
 |Apr shoot | TBD | TBD |
 |May shoot | TBD | TBD |
 |Jun shoot | TBD | TBD |
