@@ -2,7 +2,7 @@
 layout: default
 title: Rules for Gun Safety
 nav_order: 1.5
-youtubeID: KTuYS857lOE
+youtubeID: KTuYS857lOE?si=4_NPs5gD2l2PFIL9
 ---
 
 {: .warning }
