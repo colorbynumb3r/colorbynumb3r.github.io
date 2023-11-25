@@ -18,6 +18,8 @@ Listed below are the major differences between American and International versio
 | Ready position                | Mounted                                      | Low gun at ISSF marker tape                  |
 | Time limit per station        | none                                         | 30s per station                              |
 
+Differences between International & American skeet: <a href="https://youtu.be/ys4jWLHxxic?si=1apMiIY_-SvS21VA" target="_blank" rel="noreferrer noopener">Youtube video</a>
+
 ## Low gun ready position
 
 ![Low Gun Ready Position]({{site.baseurl}}/assets/images/low-gun.jpg)
@@ -35,6 +37,10 @@ But, the target presentations are different…
 There will be 3x rounds for qualifying. See “BASiC League” section for more details
 
 ![Target Presentation]({{site.baseurl}}/assets/images/intl-target-new.jpg)
+
+Videos on how to hit the targets: <BR>
+<a href="https://www.youtube.com/watch?v=p7POQy-bHKM&t=254s" target="_blank" rel="noreferrer noopener">Stations 1 to 4</a> <BR>
+<a href="https://www.youtube.com/watch?v=DIrjLIvQODQ&t=294s" target="_blank" rel="noreferrer noopener">Stations 1 to 4</a>
 
 ## ISSF Finals Format
 
