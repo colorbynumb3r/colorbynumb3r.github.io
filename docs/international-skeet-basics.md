@@ -38,9 +38,9 @@ There will be 3x rounds for qualifying. See “BASiC League” section for more 
 
 ![Target Presentation]({{site.baseurl}}/assets/images/intl-target-new.jpg)
 
-Videos on how to hit the targets: <BR>
+## Youtube videos on how to hit the targets
 <a href="https://www.youtube.com/watch?v=p7POQy-bHKM&t=254s" target="_blank" rel="noreferrer noopener">Stations 1 to 4</a> <BR>
-<a href="https://www.youtube.com/watch?v=DIrjLIvQODQ&t=294s" target="_blank" rel="noreferrer noopener">Stations 1 to 4</a>
+<a href="https://www.youtube.com/watch?v=DIrjLIvQODQ&t=294s" target="_blank" rel="noreferrer noopener">Stations 5 to 8</a>
 
 ## ISSF Finals Format
 
