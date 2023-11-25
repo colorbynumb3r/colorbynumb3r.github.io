@@ -6,7 +6,7 @@ description: "Home of Bay Area Skeet (int'l) Club"
 permalink: /
 ---
 
-# What is BASiC?
+## What is BASiC?
 
 Bay Area Skeet international Club (BASiC) is an informal club to organize friendly competition / training in the sport of International or Olympic skeet.
 
@@ -17,10 +17,10 @@ The club tries to adhere to ISSF rules but some rules are only loosely enforced.
   {: .highlight }
   Everyone (including absolute beginners) is welcome to join!
 
-# Mission
+## Mission
 
 To fortify grassroots development for California shooters in the sport of international / Olympic skeet
 
-# Vision
+## Vision
 
 Provide a platform for international / Olympic skeet shooters located in California to participate in regularly scheduled, locally held club shoots
