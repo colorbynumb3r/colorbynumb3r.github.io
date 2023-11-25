@@ -2,7 +2,6 @@
 layout: default
 title: Rules for Gun Safety
 nav_order: 1.5
-youtubeID: KTuYS857lOE?si=4_NPs5gD2l2PFIL9
 ---
 
 {: .warning }
@@ -15,7 +14,7 @@ Make sure to read and understand everything on this page before participating in
 3. Do not point your weapon at anything or anyone you are not willing to destroy
 4. Always be aware of what is behind your target
 
-{% include youtubePlayer.html id=page.youtubeId %}
+Four Rules of Fireams Safety: <a href="https://www.youtube.com/watch?v=KTuYS857lOE" target="_blank" rel="noreferrer noopener">Youtube Video</a>
 
 ## Things to consider while shooting skeet in general and shooting BASiC league
 1. Always point your shotgun downrange. Never break the 180 degree plane!
