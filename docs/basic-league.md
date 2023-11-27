@@ -29,10 +29,10 @@ For each of the qualifying rounds, shooter position will rotate. See below for e
 |:--------|:--------|:--------|
 | 1       | 6       | 3       |
 | 2       | 5       | 4       |
-| 3       | 4       | 2       |
-| 4       | 3       | 5       |
-| 5       | 2       | 1       |
-| 6       | 1       | 6       |
+| 3       | 2       | 5       |
+| 4       | 1       | 6       |
+| 5       | 4       | 1       |
+| 6       | 3       | 2       |
 
 Shooting order in the final will be determined by the total qualifying score. Position 1 will be the highest qualifier.
 
