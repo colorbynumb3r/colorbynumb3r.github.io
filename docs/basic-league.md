@@ -17,7 +17,7 @@ Schedule below is temporary — will likely need to revisit and adjust as the le
 
 If more shooters sign up, might consider a A + B final so everyone can practice ISSF final
 
-![League Schedule]({{site.baseurl}}/assets/images/league-schedule.jpg)
+![League Schedule]({{site.baseurl}}/assets/images/league-schedule-20240107.jpg)
 
 ## Shooter position and squadding
 
