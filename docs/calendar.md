@@ -11,9 +11,9 @@ First shoot will be scheduled in January 2024
 
 | Event | Date | Location|
 |:------|:-----|:--------|
-|Jan shoot | 01/20/2024 (TBC) | Field Sports Park |
-|Feb shoot | 02/17/2024 (TBC) | Field Sports Park |
-|Mar shoot | 03/09/2024 (TBC) | Field Sports Park |
+|Jan shoot | 01/20/2024 (CANCELLED) | Field Sports Park |
+|Feb shoot | 02/17/2024 | Field Sports Park |
+|Mar shoot | 03/09/2024 | Field Sports Park |
 |Apr shoot | TBD | TBD |
 |May shoot | TBD | TBD |
 |Jun shoot | TBD | TBD |
