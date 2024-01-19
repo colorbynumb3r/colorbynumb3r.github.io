@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 {: .highlight}
-First shoot will be scheduled in January 2024
+January shoot cancelled due to severe weather in South SJ
 
 ## Upcoming shoots
 
