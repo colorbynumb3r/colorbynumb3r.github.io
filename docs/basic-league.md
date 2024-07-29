@@ -37,7 +37,7 @@ For each of the qualifying rounds, shooter position will rotate. See below for e
 Shooting order in the final will be determined by the total qualifying score. Position 1 will be the highest qualifier.
 
 {: .note }
-  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $40 per participant per event.**
+  No membership or league/shoot fees. All fees paid are to cover clays / round costs + to cover potential overages during finals or tie breaks. **Cost is $60 per participant per event.**
 
 ## Cost for a round of skeet at various ranges
 _Field Sports Park_
