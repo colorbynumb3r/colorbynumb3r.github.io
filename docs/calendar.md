@@ -14,4 +14,4 @@ nav_order: 4
 |Nov shoot | TBD | TBD |
 |Dec shoot | TBD | TBD |
 
-Questions? Reach out to Erique Apolinario (909-615-5663 | erique@apolinario.me)
+Questions? Reach out to Erique Apolinario (909-615-5663 erique@apolinario.me)
