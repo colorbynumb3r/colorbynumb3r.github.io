@@ -1,24 +1,24 @@
 ---
 layout: post
-title: April 2023 Results (Test)
+title: August 2024 Results
 ---
 
-Info on how many attended the shoot.
+We've finally had our debut BASiC shoot! We only had 4 shooters this month but expecting to increase shooter participation in the next few months.
 
 Final Results:
-1. First Place: Name (xx/60)
-2. Second Place: Name (xx/60)
-3. Third Place: Name (xx/60)
+1. First Place: Erique (37/60)
+2. Second Place: Sebastian (27/60)
+3. Third Place: Bryan (18/50)
 
 Final results: <a href="/results-archive/finals-score-template.pdf" target="_blank" rel="noreferrer noopener">PDF</a>
 
 Top Qualifiers:
-1. Name (xx/75)
-2. Name (xx/75)
-3. Name (xx/75)
+1. Erique (55/75)
+2. Adriano (45/75) **did not shoot finals
+3. Bryan (30/75)
 
 Qualifying results: <a href="/results-archive/quali-score-template.pdf">PDF</a>
 
-Next shoot is scheduled for MM-DD-YYYY
+Next shoot is scheduled for 09-21-2024
 
 Back to <a href="/blog.html">results archive summary</a>
