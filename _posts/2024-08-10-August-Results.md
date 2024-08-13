@@ -3,7 +3,7 @@ layout: post
 title: August 2024 Results
 ---
 
-We've finally had our debut BASiC shoot! We only had 4 shooters this month but expecting to increase shooter participation in the next few months.
+We've finally had our debut BASiC shoot! We only had 4 shooters this month but expecting increased shooter participation in the next few months.
 
 ![20240810 Shooters Pic]({{site.baseurl}}/assets/images/20240810-shooters-pic.jpg)
 
