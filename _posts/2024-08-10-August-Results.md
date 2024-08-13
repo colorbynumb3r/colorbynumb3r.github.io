@@ -10,14 +10,14 @@ Final Results:
 2. Second Place: Sebastian (27/60)
 3. Third Place: Bryan (18/50)
 
-Final results: <a href="/results-archive/finals-score-template.pdf" target="_blank" rel="noreferrer noopener">PDF</a>
+Final results: <a href="/results-archive/20240810-finals.pdf" target="_blank" rel="noreferrer noopener">PDF</a>
 
 Top Qualifiers:
 1. Erique (55/75)
 2. Adriano (45/75) **did not shoot finals
 3. Bryan (30/75)
 
-Qualifying results: <a href="/results-archive/quali-score-template.pdf">PDF</a>
+Qualifying results: <a href="/results-archive/20240810-quali.pdf">PDF</a>
 
 Next shoot is scheduled for 09-21-2024
 
