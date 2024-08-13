@@ -8,8 +8,8 @@ nav_order: 4
 
 | Event | Date | Location|
 |:------|:-----|:--------|
-|Aug shoot | 8/10/24 | Field Sports Park |
-|Sep shoot | TBD | TBD |
+|Aug shoot | 8/10/24 [DONE] | Field Sports Park |
+|Sep shoot | 9/21/2024 | Field Sports Park |
 |Oct shoot | TBD | TBD |
 |Nov shoot | TBD | TBD |
 |Dec shoot | TBD | TBD |
