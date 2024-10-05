@@ -10,7 +10,7 @@ nav_order: 4
 |:------|:-----|:--------|:-------|
 |Aug shoot | 8/10/24 [DONE] | Field Sports Park | to be uploaded |
 |Sep shoot | 9/21/2024 | Field Sports Park | to be uploaded |
-|Oct shoot | TBD | TBD |
+|Oct shoot | 10/19/2024 | Field Sports Park | to be uploaded
 |Nov shoot | TBD | TBD |
 |Dec shoot | TBD | TBD |
 
