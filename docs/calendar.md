@@ -8,6 +8,7 @@ nav_order: 4
 
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
+|Mar 2025 | TBD | - | - |
 |Feb 2025 | No shoot | - | - |
 |Jan 2025 | No shoot | - | - |
 |Dec 2024 | No shoot | - | - |
