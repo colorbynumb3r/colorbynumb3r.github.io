@@ -8,10 +8,10 @@ nav_order: 4
 
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
-|Jun 2025 | 6/14/2025 | Field Sports Park | - |
-|May 2025 | 5/10/2025 | Field Sports Park | - |
-|Apr 2025 | 4/12/2025 | Field Sports Park | - |
-|Mar 2025 | 3/8/2025 | Field Sports Park | - |
+|Jun 2025 | 6/14/2025 | Field Sports Park | TBA |
+|May 2025 | 5/10/2025 | Field Sports Park | TBA |
+|Apr 2025 | 4/12/2025 | Field Sports Park | TBA |
+|Mar 2025 | 3/8/2025 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250308.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Feb 2025 | No shoot | - | - |
 |Jan 2025 | No shoot | - | - |
 |Dec 2024 | No shoot | - | - |
