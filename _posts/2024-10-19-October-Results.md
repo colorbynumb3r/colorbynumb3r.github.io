@@ -15,6 +15,6 @@ Top Qualifiers:
 2. Adriano (40/75)
 3. Ed (40/75)
 
-Qualifying results: <a href="/results-archive/20241019-quali-results.pdf">PDF</a>
+Qualifying results: <a href="/results-archive/20241019-quali-results.pdf" target="_blank" rel="noreferrer noopener">PDF</a>
 
 Back to <a href="/blog.html">results archive summary</a>
