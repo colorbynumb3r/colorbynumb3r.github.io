@@ -3,6 +3,8 @@ layout: post
 title: March 2025 Results
 ---
 
+![20250308 Shooters Pic]({{site.baseurl}}/assets/images/20250308-shooters-pic.jpg)
+
 Final Results:
 1. First Place: Erique (42/60)
 2. Second Place: Jerry (28/60)
