@@ -10,7 +10,7 @@ We had 6x shooters in March 2025. Jerry was busy tending to his gun when the pic
 Final Results:
 1. First Place: Erique (42/60)
 2. Second Place: Jerry (28/60)
-3. Third Place: Ion (20/60)
+3. Third Place: Ion (20/50)
 
 Final results: <a href="/results-archive/20250308-finals-results.jpg" target="_blank" rel="noreferrer noopener">PDF</a>
 
