@@ -4,7 +4,7 @@ title: April 2025 Results
 ---
 
 Final Results:
-1. First Place: Erique (4/60)
+1. First Place: Erique (44/60)
 2. Second Place: Bryan (28/60)
 3. Third Place: Jerry (23/50)
 
