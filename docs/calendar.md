@@ -8,8 +8,11 @@ nav_order: 4
 
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
-|Jun 2025 | 6/14/2025 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250614.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
-|May 2025 | 5/10/2025 (moved to 5/3) | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250510.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|Sep 2025 | 9/20/2025 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250920.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|Aug 2025 | 8/16/2025 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250816.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|Jul 2025 | 7/26/2025 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250726.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|Jun 2025 | 6/14/2025 [<a href="https://www.bayareaskeet.club/2025/06/14/June-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250614.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|May 2025 | 5/10/2025 (moved to 5/3) [<a href="https://www.bayareaskeet.club/2025/05/03/May-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250510.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Apr 2025 | 4/12/2025 [<a href="https://www.bayareaskeet.club/2025/04/12/April-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250412.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Mar 2025 | 3/8/2025 [<a href="https://www.bayareaskeet.club/2025/03/08/March-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20250308.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Feb 2025 | No shoot | - | - |
