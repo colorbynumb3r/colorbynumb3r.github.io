@@ -8,7 +8,8 @@ nav_order: 4
 
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
-|Mar 2026 | TBD | Field Sports Park | to be uploaded |
+|Apr 2026 | 4/18/2026 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20260418.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
+|Mar 2026 | 3/21/2026 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20260321.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Feb 2026 | skipped | skipped | - |
 |Jan 2026 | skipped | skipped | - |
 |Dec 2025 | skipped | skipped | - |
