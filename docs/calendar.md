@@ -8,9 +8,10 @@ nav_order: 4
 
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
-|Jul 2026 | TBD | Field Sports Park | TBD |
-|Jun 2026 | TBD | Field Sports Park | TBD |
-|May 2026 | TBD | Field Sports Park | TBD |
+|Aug 2026 | 8/22/2026 | Field Sports Park | TBD |
+|Jul 2026 | 7/18/2026 | Field Sports Park | TBD |
+|Jun 2026 | NO SHOOT | Field Sports Park | TBD |
+|May 2026 | 5/23/2026 | Field Sports Park | TBD |
 |Apr 2026 | 4/18/2026 | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20260418-B.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Mar 2026 | 3/21/2026 [<a href="https://www.bayareaskeet.club/2026/03/21/March-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20260321-B.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
 |Nov 2025 | 11/29/2025 [<a href="https://www.bayareaskeet.club/2025/11/29/November-Results.html" target="_blank" rel="noreferrer noopener">Results</a>] | Field Sports Park | <a href="/assets/PDFs/BASiC-Flyer-PDF-20251129-2.pdf" target="_blank" rel="noreferrer noopener">Flyer</a> |
