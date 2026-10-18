@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 ## Upcoming shoots
+
 | Event | Date | Location | Flyer |
 |:------|:-----|:--------|:-------|
 |Mar 2027 | TBD | TBD | TBD |
